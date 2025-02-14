@@ -29,6 +29,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Python
 - Pandas
 - PyWin32
+- OpenPyXl
 - Excel
 
 ---
@@ -42,6 +43,7 @@ Projeto de análise de dados, onde foram analisados os dados de vendas e faturam
 Durante esse projeto aprendi: 
 - Importar e usar libs utilizando pip
 - Importar e ler dados, arquivos externos com o Pandas
+- Ler arquivos excel com Python, utilizando a lib openpyxl
 - Criar nova tabela(DataFrame) com Pandas 
 - Tratar e compilar os dados importados
 - Enviar emails automatizados com o Python, utilizando a lib PyWin32
